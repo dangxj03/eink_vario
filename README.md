@@ -2,7 +2,8 @@
  eink_vario  
 墨水屏高度表  
 滑翔伞用  
-![正面](picture/1.pic.jpg)  
+![正面](picture/1.pic.jpg#pic_left =500x)  
+<img src="picture/1.pic.jpg" width="300px" align="center">  
 
 特色  
 墨水屏阳光下显示方便看  
@@ -32,8 +33,8 @@ ms5611气压计灵敏，盘气流响应快
 采用arduino+esp开发  
 
 硬件连接：  
-![开发板](picture/T5_正反面.jpg)  
-![气压计](picture/ms5611.jpg)  
+<img src="picture/T5_正反面.jpg" width="400px">  
+<img src="picture/ms5611.jpg" width="400px">  
 气压计连接：  
 气压计-->开发板  
 VCC-->3V3  
